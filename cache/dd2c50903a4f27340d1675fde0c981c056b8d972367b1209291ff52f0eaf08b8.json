@@ -1,0 +1,161 @@
+{
+  "file": null,
+  "court": "Supreme Court of India",
+  "case_number": "Civil Appeal No. 6767 of 2013",
+  "decision_date": "2013-08-12",
+  "case_type": {
+    "category": "Civil",
+    "sub_type": "Civil Appeal",
+    "reasoning": "The matter arises from a civil appeal concerning employment conditions, reinstatement, and back wages in a private school."
+  },
+  "parties": {
+    "petitioner": [
+      "Deepali Gundu Surwase"
+    ],
+    "respondent": [
+      "Kranti Junior Adhyapak Mahavidyalaya (D.Ed.) and others"
+    ],
+    "judges": [
+      "G.S. Singhvi",
+      "V. Gopala Gowda"
+    ]
+  },
+  "statutes": [
+    {
+      "act": "Maharashtra Employees of Private Schools (Conditions of Service) Regulation Act, 1977",
+      "sections": [
+        "9",
+        "10",
+        "11",
+        "16"
+      ],
+      "sectionMappings": [
+        {
+          "section": "9",
+          "newCodeNote": null
+        },
+        {
+          "section": "10",
+          "newCodeNote": null
+        },
+        {
+          "section": "11",
+          "newCodeNote": null
+        },
+        {
+          "section": "16",
+          "newCodeNote": null
+        }
+      ],
+      "page": 8,
+      "evidence": "Section 9(1) contains a non obstante clause and provides for an appeal by any employee",
+      "verified": true
+    },
+    {
+      "act": "Maharashtra Employees of Private Schools (Conditions of Service) Rules, 1981",
+      "sections": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "sectionMappings": [
+        {
+          "section": "33",
+          "newCodeNote": null
+        },
+        {
+          "section": "34",
+          "newCodeNote": null
+        },
+        {
+          "section": "35",
+          "newCodeNote": null
+        },
+        {
+          "section": "36",
+          "newCodeNote": null
+        },
+        {
+          "section": "37",
+          "newCodeNote": null
+        }
+      ],
+      "page": 2,
+      "evidence": "Maharashtra Employees of Private Schools (Conditions of Service) Rules, 1981",
+      "verified": true
+    },
+    {
+      "act": "Contempt of Courts Act, 1971",
+      "sections": [],
+      "sectionMappings": [],
+      "page": 26,
+      "evidence": "punished under the Contempt of Courts Act, 1971",
+      "verified": true
+    }
+  ],
+  "outcome": {
+    "result": "Allowed",
+    "detail": "The Supreme Court allowed the appeal, set aside the High Court's order denying back wages, and restored the Tribunal's order granting full back wages to the appellant.",
+    "page": 26,
+    "evidence": "In the result, the appeal is allowed, the impugned order is set aside and the order passed by the Tribunal is restored.",
+    "verified": true
+  },
+  "key_dates": [
+    {
+      "date": "2011-09-28",
+      "event": "Order passed by the learned Single Judge of the Bombay High Court"
+    },
+    {
+      "date": "2013-08-12",
+      "event": "Judgment delivered by the Supreme Court of India"
+    }
+  ],
+  "summary": "The appellant, a school teacher, was illegally suspended and terminated by the school management after refusing to pay an arbitrary commercial tax contribution levied by them. The School Tribunal ruled in her favor, ordering reinstatement with full back wages, but the High Court interfered and denied back wages on the grounds that she did not prove non-employment. The Supreme Court allowed the appeal, ruling that when termination is illegal and based on frivolous charges, full back wages should normally follow, and restored the Tribunal's order.",
+  "summary_hi": "अपीलकर्ता, जो कि एक स्कूल शिक्षिका थीं, को स्कूल प्रबंधन द्वारा मनमाने व्यावसायिक कर योगदान देने से इनकार करने पर अवैध रूप से निलंबित और बर्खास्त कर दिया गया था। स्कूल ट्रिब्यूनल ने उनके पक्ष में फैसला सुनाते हुए पूरे पिछले वेतन के साथ बहाली का आदेश दिया था, लेकिन उच्च न्यायालय ने हस्तक्षेप किया और इस आधार पर पिछला वेतन देने से इनकार कर दिया कि उन्होंने यह साबित नहीं किया कि वे कहीं और से रोजगार में नहीं थीं। सुप्रीम कोर्ट ने अपील को स्वीकार करते हुए यह फैसला सुनाया कि जब बर्खास्तगी अवैध हो और तुच्छ आरोपों पर आधारित हो, तो सामान्यतः पूरा पिछला वेतन मिलना चाहिए, और ट्रिब्यूनल के आदेश को बहाल कर दिया।",
+  "meta": {
+    "latencyMs": 3930,
+    "pagesSent": [
+      1,
+      2,
+      3,
+      8,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "totalPages": 26,
+    "model": "gemini-3.5-flash-lite",
+    "cached": false
+  },
+  "verified_parties": {
+    "petitioner": [
+      {
+        "name": "Deepali Gundu Surwase",
+        "verified": true
+      }
+    ],
+    "respondent": [
+      {
+        "name": "Kranti Junior Adhyapak Mahavidyalaya (D.Ed.) and others",
+        "verified": true
+      }
+    ],
+    "judges": [
+      {
+        "name": "G.S. Singhvi",
+        "verified": true
+      },
+      {
+        "name": "V. Gopala Gowda",
+        "verified": true
+      }
+    ]
+  }
+}

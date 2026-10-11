@@ -1,0 +1,54 @@
+{
+  "file": null,
+  "court": "Supreme Court of India",
+  "case_number": null,
+  "decision_date": "2024-08-02",
+  "case_type": {
+    "category": "Constitutional/Writ",
+    "sub_type": "Official Reference / Reference Sheet",
+    "reasoning": "The text serves as an official reference sheet regarding Supreme Court judgments and orders concerning the NEET examination."
+  },
+  "parties": {
+    "petitioner": [],
+    "respondent": [],
+    "judges": []
+  },
+  "statutes": [],
+  "outcome": {
+    "result": "Disposed of",
+    "detail": "The Court did not order a nationwide re-test, finding that the material before it did not establish a systemic breach.",
+    "page": 1,
+    "evidence": "did not order a nationwide re-test, finding that the material before it did not establish a systemic breach",
+    "verified": true
+  },
+  "key_dates": [
+    {
+      "date": "2024-08-02",
+      "event": "Supreme Court judgment on NEET-UG 2024 delivered"
+    },
+    {
+      "date": "2025-04-21",
+      "event": "Supreme Court order concerning candidate's application-signature issue"
+    },
+    {
+      "date": "2026-10-11",
+      "event": "Reference sheet prepared"
+    }
+  ],
+  "summary": "This reference sheet clarifies official Supreme Court judgments and orders regarding the NEET examinations. It highlights that the major Supreme Court judgment delivered on August 2, 2024, found no systemic breach requiring a nationwide re-test for NEET-UG 2024. Additionally, it notes that a subsequent order from April 2025 addressed an individual candidate's application issue rather than any nationwide paper leak.",
+  "summary_hi": "यह संदर्भ पत्र नीट परीक्षाओं से संबंधित सर्वोच्च न्यायालय के आधिकारिक निर्णयों और आदेशों को स्पष्ट करता है। इसमें इस बात पर प्रकाश डाला गया है कि 2 अगस्त 2024 को दिए गए प्रमुख सर्वोच्च न्यायालय के निर्णय में ऐसा कोई प्रणालीगत उल्लंघन नहीं पाया गया जिसके लिए नीट-यूजी 2024 की देशव्यापी दोबारा परीक्षा की आवश्यकता हो। इसके अतिरिक्त, यह नोट करता है कि अप्रैल 2025 के एक बाद के आदेश में किसी देशव्यापी पेपर लीक के बजाय एक व्यक्तिगत उम्मीदवार के आवेदन के मुद्दे को संबोधित किया गया था।",
+  "meta": {
+    "latencyMs": 2430,
+    "pagesSent": [
+      1
+    ],
+    "totalPages": 1,
+    "model": "gemini-3.5-flash-lite",
+    "cached": false
+  },
+  "verified_parties": {
+    "petitioner": [],
+    "respondent": [],
+    "judges": []
+  }
+}

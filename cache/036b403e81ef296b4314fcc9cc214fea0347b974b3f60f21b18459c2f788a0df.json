@@ -1,0 +1,187 @@
+{
+  "file": "Kalyan Chandra Sarkar vs Rajesh Ranjan @ Pappu Yadav & Anr on 18 January, 2005",
+  "court": "Supreme Court of India",
+  "case_number": "Criminal Appeal No. 1129 of 2004 (with Criminal Misc. Petition No. 10422 of 2004 in Criminal Appeal No. 1129 of 2004 and Criminal Appeal No. 120 of 2005)",
+  "decision_date": "2005-01-18",
+  "case_type": {
+    "category": "Criminal",
+    "sub_type": "Criminal Appeal against Bail Order",
+    "reasoning": "The matter involves criminal charges under the IPC and Arms Act, and challenges an order granting bail to the accused."
+  },
+  "parties": {
+    "petitioner": [
+      "Kalyan Chandra Sarkar"
+    ],
+    "respondent": [
+      "Rajesh Ranjan @ Pappu Yadav",
+      "Anr."
+    ],
+    "judges": [
+      "N. Santosh Hegde",
+      "S.B. Sinha",
+      "P.K. Balasubramanyan"
+    ]
+  },
+  "statutes": [
+    {
+      "act": "Indian Penal Code, 1860",
+      "sections": [
+        "302",
+        "34",
+        "307",
+        "120-B"
+      ],
+      "sectionMappings": [
+        {
+          "section": "302",
+          "newCodeNote": "Mapped to BNS (2023) Section 103(1) (Punishment for murder)"
+        },
+        {
+          "section": "34",
+          "newCodeNote": "Mapped to BNS (2023) Section 3(5) (Joint liability / Common intention)"
+        },
+        {
+          "section": "307",
+          "newCodeNote": "Mapped to BNS (2023) Section 109 (Attempt to murder)"
+        },
+        {
+          "section": "120-B",
+          "newCodeNote": "Mapped to BNS (2023) Section 61(2) (Criminal conspiracy)"
+        }
+      ],
+      "page": 2,
+      "evidence": "offences punishable under Sections 302 read with 34, 307 read with 34, 120-B, 302/307 IPC",
+      "verified": true
+    },
+    {
+      "act": "Arms Act",
+      "sections": [
+        "27"
+      ],
+      "sectionMappings": [
+        {
+          "section": "27",
+          "newCodeNote": null
+        }
+      ],
+      "page": 2,
+      "evidence": "Section 27 of the Arms Act",
+      "verified": true
+    },
+    {
+      "act": "Code of Criminal Procedure, 1973",
+      "sections": [
+        "437(1)(i)",
+        "164"
+      ],
+      "sectionMappings": [
+        {
+          "section": "437(1)(i)",
+          "newCodeNote": null
+        },
+        {
+          "section": "164",
+          "newCodeNote": "Mapped to BNSS (2023) Section 183 (Recording of confessions and statements)"
+        }
+      ],
+      "page": 2,
+      "evidence": "Section 437(1) (i) of Cr. P.C.",
+      "verified": true
+    },
+    {
+      "act": "Constitution of India, 1950",
+      "sections": [
+        "21",
+        "136"
+      ],
+      "sectionMappings": [
+        {
+          "section": "21",
+          "newCodeNote": null
+        },
+        {
+          "section": "136",
+          "newCodeNote": null
+        }
+      ],
+      "page": 5,
+      "evidence": "Article 21 of the Constitution of India",
+      "verified": true
+    }
+  ],
+  "outcome": {
+    "result": "Allowed",
+    "detail": "The Supreme Court allowed the appeal, quashed the High Court's order granting bail, and dismissed the respondent's bail application.",
+    "page": 13,
+    "evidence": "We allow this appeal, quash the impugned order of the High Court and dismiss the bail application made by the respondent",
+    "verified": true
+  },
+  "key_dates": [
+    {
+      "date": "1998-01-14",
+      "event": "Incident involving the murder of Ajit Sarkar and others"
+    },
+    {
+      "date": "2004-09-21",
+      "event": "Patna High Court passed order granting bail to respondent no. 1 in Criminal Misc. No. 9220 of 2004"
+    },
+    {
+      "date": "2005-01-18",
+      "event": "Supreme Court pronounced judgment allowing the appeals and canceling the bail"
+    }
+  ],
+  "summary": "The Supreme Court heard appeals challenging a Patna High Court order that granted bail to the respondent for the ninth time in a murder case involving a former MLA. The Court held that successive bail applications cannot be entertained without any new change in facts or law, especially when earlier courts and the Supreme Court had already determined the existence of a prima facie case against the accused. Furthermore, the conduct of the accused indicated that releasing him on bail would pose a threat to witnesses and impede the trial. Consequently, the Supreme Court set aside the High Court's order and canceled the bail.",
+  "summary_hi": "सुप्रीम कोर्ट ने उस अपील पर सुनवाई की जिसमें पटना उच्च न्यायालय के उस आदेश को चुनौती दी गई थी जिसके तहत एक पूर्व विधायक की हत्या के मामले में आरोपी को नौवीं बार जमानत दी गई थी। अदालत ने माना कि तथ्यों या कानून में किसी नए बदलाव के बिना बार-बार जमानत याचिकाएं दाखिल नहीं की जा सकती हैं, खासकर तब जब निचली अदालतों और सुप्रीम कोर्ट ने पहले ही आरोपी के खिलाफ प्रथम दृष्टया मामला तय कर दिया हो। इसके अलावा, आरोपी का आचरण यह दर्शाता था कि उसे जमानत पर रिहा करने से गवाहों को खतरा हो सकता है और मुकदमे में बाधा आ सकती है। परिणामस्वरूप, सुप्रीम कोर्ट ने उच्च न्यायालय के आदेश को रद्द कर दिया और जमानत खारिज कर दी।",
+  "meta": {
+    "latencyMs": 12685,
+    "pagesSent": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13
+    ],
+    "totalPages": 13,
+    "model": "gemini-3.5-flash-lite",
+    "cached": false
+  },
+  "verified_parties": {
+    "petitioner": [
+      {
+        "name": "Kalyan Chandra Sarkar",
+        "verified": true
+      }
+    ],
+    "respondent": [
+      {
+        "name": "Rajesh Ranjan @ Pappu Yadav",
+        "verified": true
+      },
+      {
+        "name": "Anr.",
+        "verified": true
+      }
+    ],
+    "judges": [
+      {
+        "name": "N. Santosh Hegde",
+        "verified": true
+      },
+      {
+        "name": "S.B. Sinha",
+        "verified": true
+      },
+      {
+        "name": "P.K. Balasubramanyan",
+        "verified": true
+      }
+    ]
+  }
+}

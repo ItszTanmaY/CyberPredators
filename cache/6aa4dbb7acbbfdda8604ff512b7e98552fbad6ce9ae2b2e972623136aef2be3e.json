@@ -1,0 +1,111 @@
+{
+  "file": "case02_cheating_quashing.pdf",
+  "court": "High Court of Judicature at Allahabad",
+  "case_number": "Application U/S 482 No. 8921 of 2023",
+  "decision_date": "2023-11-15",
+  "case_type": {
+    "category": "Criminal",
+    "sub_type": "Quashing Petition under Section 482 CrPC",
+    "reasoning": "The petition seeks inherent powers of the High Court to quash a criminal charge sheet arising from a commercial dispute."
+  },
+  "parties": {
+    "petitioner": [
+      "Ramesh Chand"
+    ],
+    "respondent": [
+      "State of U.P.",
+      "Vikas Agarwal"
+    ],
+    "judges": [
+      "Justice Rahul Chaturvedi"
+    ]
+  },
+  "verified_parties": {
+    "petitioner": [
+      {
+        "name": "Ramesh Chand",
+        "verified": true
+      }
+    ],
+    "respondent": [
+      {
+        "name": "State of U.P.",
+        "verified": true
+      }
+    ],
+    "judges": [
+      {
+        "name": "Justice Rahul Chaturvedi",
+        "verified": true
+      }
+    ]
+  },
+  "statutes": [
+    {
+      "act": "Code of Criminal Procedure, 1973",
+      "sections": [
+        "482"
+      ],
+      "sectionMappings": [
+        {
+          "section": "482",
+          "newCodeNote": "Mapped to BNSS (2023) Section 528 (Saving of inherent powers of High Court)"
+        }
+      ],
+      "page": 1,
+      "evidence": "application under Section 482 Cr.P.C. has been filed for quashing",
+      "verified": true
+    },
+    {
+      "act": "Indian Penal Code, 1860",
+      "sections": [
+        "420",
+        "406",
+        "34"
+      ],
+      "sectionMappings": [
+        {
+          "section": "420",
+          "newCodeNote": "Mapped to BNS (2023) Section 318(4) (Cheating and dishonestly inducing delivery of property)"
+        },
+        {
+          "section": "406",
+          "newCodeNote": "Mapped to BNS (2023) Section 316(2) (Punishment for criminal breach of trust)"
+        },
+        {
+          "section": "34",
+          "newCodeNote": "Mapped to BNS (2023) Section 3(5) (Joint liability / Common intention)"
+        }
+      ],
+      "page": 1,
+      "evidence": "under Sections 420, 406 and 34 of the Indian Penal Code",
+      "verified": true
+    }
+  ],
+  "outcome": {
+    "result": "Allowed",
+    "detail": "The High Court allowed the Section 482 application and quashed the criminal charge sheet.",
+    "page": 15,
+    "evidence": "application under Section 482 Cr.P.C. is allowed. The impugned charge sheet and entire criminal proceedings against the applicants stand quashed",
+    "verified": true
+  },
+  "key_dates": [
+    {
+      "date": "2023-11-15",
+      "event": "High Court order quashing criminal proceedings"
+    }
+  ],
+  "summary": "The Allahabad High Court quashed criminal proceedings instituted under Sections 420, 406, and 34 of the IPC against the applicants. The Court held that the dispute was civil and commercial in nature, and failure to honor a contract cannot be converted into a criminal offence of cheating without fraudulent intent at inception.",
+  "summary_hi": "इलाहाबाद हाईकोर्ट ने धारा 420, 406 और 34 आईपीसी के तहत दर्ज आपराधिक मामले को रद्द कर दिया। अदालत ने कहा कि व्यापारिक अनुबंध के उल्लंघन का विवाद दीवानी प्रकृति का है और इसे धोखाधड़ी का आपराधिक मामला नहीं बनाया जा सकता।",
+  "meta": {
+    "latencyMs": 12,
+    "pagesSent": [
+      1,
+      2,
+      15
+    ],
+    "totalPages": 15,
+    "model": "gemini-2.5-flash",
+    "cached": true
+  }
+}

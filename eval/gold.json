@@ -1,0 +1,82 @@
+[
+  {
+    "file": "case01_criminal_bail.pdf",
+    "court": "Supreme Court of India",
+    "case_number": "Criminal Appeal No. 1421 of 2024",
+    "decision_date": "2024-08-09",
+    "case_type": "Criminal",
+    "sub_type": "Bail Application",
+    "petitioner": ["Manish Sisodia"],
+    "respondent": ["Central Bureau of Investigation", "Directorate of Enforcement"],
+    "judges": ["Justice B.R. Gavai", "Justice K.V. Viswanathan"],
+    "statutes": [
+      { "act": "Code of Criminal Procedure, 1973", "sections": ["439"] },
+      { "act": "Prevention of Corruption Act, 1988", "sections": ["7", "7A", "12"] },
+      { "act": "Indian Penal Code, 1860", "sections": ["120B", "420"] }
+    ],
+    "outcome": "Bail granted"
+  },
+  {
+    "file": "case02_cheating_quashing.pdf",
+    "court": "High Court of Judicature at Allahabad",
+    "case_number": "Application U/S 482 No. 8921 of 2023",
+    "decision_date": "2023-11-15",
+    "case_type": "Criminal",
+    "sub_type": "Quashing Petition under Section 482",
+    "petitioner": ["Ramesh Chand", "Suresh Chand"],
+    "respondent": ["State of U.P.", "Vikas Agarwal"],
+    "judges": ["Justice Rahul Chaturvedi"],
+    "statutes": [
+      { "act": "Code of Criminal Procedure, 1973", "sections": ["482"] },
+      { "act": "Indian Penal Code, 1860", "sections": ["420", "406", "34"] }
+    ],
+    "outcome": "Allowed"
+  },
+  {
+    "file": "case03_writ_mandamus.pdf",
+    "court": "High Court of Delhi",
+    "case_number": "W.P.(C) 4125/2024",
+    "decision_date": "2024-03-22",
+    "case_type": "Constitutional/Writ",
+    "sub_type": "Writ Petition under Article 226 (Mandamus)",
+    "petitioner": ["Meera Sharma"],
+    "respondent": ["Union of India", "Director General of Health Services"],
+    "judges": ["Justice Manmohan", "Justice Manmeet Pritam Singh Arora"],
+    "statutes": [
+      { "act": "Constitution of India, 1950", "sections": ["226", "21"] }
+    ],
+    "outcome": "Disposed of"
+  },
+  {
+    "file": "case04_cheque_bounce.pdf",
+    "court": "Supreme Court of India",
+    "case_number": "Criminal Appeal No. 782 of 2023",
+    "decision_date": "2023-01-11",
+    "case_type": "Commercial",
+    "sub_type": "Cheque Dishonour Appeal under Section 138 NI Act",
+    "petitioner": ["Dashrathbhai Trikambhai Patel"],
+    "respondent": ["Hitesh Mahendrabhai Patel", "State of Gujarat"],
+    "judges": ["Justice D.Y. Chandrachud", "Justice Hima Kohli"],
+    "statutes": [
+      { "act": "Negotiable Instruments Act, 1881", "sections": ["138", "139"] },
+      { "act": "Code of Criminal Procedure, 1973", "sections": ["378"] }
+    ],
+    "outcome": "Dismissed"
+  },
+  {
+    "file": "case05_civil_specific_performance.pdf",
+    "court": "High Court of Karnataka",
+    "case_number": "Regular First Appeal No. 1104 of 2021",
+    "decision_date": "2022-09-14",
+    "case_type": "Civil",
+    "sub_type": "Suit for Specific Performance of Agreement to Sell",
+    "petitioner": ["Venkatesh Murthy"],
+    "respondent": ["Smt. Lakshmi Devi", "K. Suresh"],
+    "judges": ["Justice Alok Aradhe", "Justice S. Vishwajith Shetty"],
+    "statutes": [
+      { "act": "Specific Relief Act, 1963", "sections": ["16(c)", "20"] },
+      { "act": "Code of Civil Procedure, 1908", "sections": ["96"] }
+    ],
+    "outcome": "Allowed"
+  }
+]

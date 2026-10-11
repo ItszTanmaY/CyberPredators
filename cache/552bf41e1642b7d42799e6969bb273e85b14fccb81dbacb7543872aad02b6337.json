@@ -1,0 +1,96 @@
+{
+  "file": "case03_writ_mandamus.pdf",
+  "court": "High Court of Delhi",
+  "case_number": "W.P.(C) 4125/2024",
+  "decision_date": "2024-03-22",
+  "case_type": {
+    "category": "Constitutional/Writ",
+    "sub_type": "Writ petition under Article 226",
+    "reasoning": "The petitioner seeks a writ of mandamus under Article 226 of the Constitution to enforce public duty."
+  },
+  "parties": {
+    "petitioner": [
+      "Meera Sharma"
+    ],
+    "respondent": [
+      "Union of India",
+      "Director General of Health Services"
+    ],
+    "judges": [
+      "Justice Manmohan",
+      "Justice Manmeet Pritam Singh Arora"
+    ]
+  },
+  "verified_parties": {
+    "petitioner": [
+      {
+        "name": "Meera Sharma",
+        "verified": true
+      }
+    ],
+    "respondent": [
+      {
+        "name": "Union of India",
+        "verified": true
+      },
+      {
+        "name": "Director General of Health Services",
+        "verified": true
+      }
+    ],
+    "judges": [
+      {
+        "name": "Justice Manmohan",
+        "verified": true
+      }
+    ]
+  },
+  "statutes": [
+    {
+      "act": "Constitution of India, 1950",
+      "sections": [
+        "226",
+        "21"
+      ],
+      "sectionMappings": [
+        {
+          "section": "226",
+          "newCodeNote": null
+        },
+        {
+          "section": "21",
+          "newCodeNote": null
+        }
+      ],
+      "page": 1,
+      "evidence": "writ petition under Article 226 of the Constitution of India",
+      "verified": true
+    }
+  ],
+  "outcome": {
+    "result": "Disposed of",
+    "detail": "The High Court disposed of the writ petition with directions to the respondents to decide the petitioner's representation within four weeks.",
+    "page": 14,
+    "evidence": "The writ petition is accordingly disposed of with a direction to respondent no. 2 to decide the pending representation within four weeks",
+    "verified": true
+  },
+  "key_dates": [
+    {
+      "date": "2024-03-22",
+      "event": "High Court order issuing directions on representation"
+    }
+  ],
+  "summary": "The Delhi High Court disposed of a writ petition filed under Article 226 seeking healthcare directions against public authorities. The Division Bench directed the Director General of Health Services to decide the pending representation in an expedited manner within four weeks. The court emphasized that timely administrative consideration is essential to uphold the right to health under Article 21.",
+  "summary_hi": "दिल्ली हाईकोर्ट ने स्वास्थ्य सेवाओं के संबंध में दायर याचिका का निपटारा करते हुए स्वास्थ्य सेवा महानिदेशक को चार सप्ताह के भीतर लंबित प्रतिवेदन पर निर्णय लेने का निर्देश दिया है। अदालत ने कहा कि अनुच्छेद 21 के तहत स्वास्थ्य के अधिकार के लिए समय पर प्रशासनिक निर्णय आवश्यक है।",
+  "meta": {
+    "latencyMs": 12,
+    "pagesSent": [
+      1,
+      2,
+      14
+    ],
+    "totalPages": 14,
+    "model": "gemini-2.5-flash",
+    "cached": true
+  }
+}

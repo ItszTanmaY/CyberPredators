@@ -1,0 +1,133 @@
+{
+  "file": "case01_criminal_bail.pdf",
+  "court": "Supreme Court of India",
+  "case_number": "Criminal Appeal No. 1421 of 2024",
+  "decision_date": "2024-08-09",
+  "case_type": {
+    "category": "Criminal",
+    "sub_type": "Bail Application under Section 439 CrPC",
+    "reasoning": "The proceedings involve prolonged incarceration in a criminal prosecution seeking release on bail under Section 439 CrPC."
+  },
+  "parties": {
+    "petitioner": [
+      "Manish Sisodia"
+    ],
+    "respondent": [
+      "Central Bureau of Investigation",
+      "Directorate of Enforcement"
+    ],
+    "judges": [
+      "Justice B.R. Gavai",
+      "Justice K.V. Viswanathan"
+    ]
+  },
+  "verified_parties": {
+    "petitioner": [
+      {
+        "name": "Manish Sisodia",
+        "verified": true
+      }
+    ],
+    "respondent": [
+      {
+        "name": "Central Bureau of Investigation",
+        "verified": true
+      }
+    ],
+    "judges": [
+      {
+        "name": "Justice B.R. Gavai",
+        "verified": true
+      }
+    ]
+  },
+  "statutes": [
+    {
+      "act": "Code of Criminal Procedure, 1973",
+      "sections": [
+        "439"
+      ],
+      "sectionMappings": [
+        {
+          "section": "439",
+          "newCodeNote": "Mapped to BNSS (2023) Section 483 (Special powers of High Court or Court of Session regarding bail)"
+        }
+      ],
+      "page": 1,
+      "evidence": "grant of bail under Section 439 of the Code of Criminal Procedure, 1973",
+      "verified": true
+    },
+    {
+      "act": "Indian Penal Code, 1860",
+      "sections": [
+        "120B",
+        "420"
+      ],
+      "sectionMappings": [
+        {
+          "section": "120B",
+          "newCodeNote": "Mapped to BNS (2023) Section 61(2) (Criminal conspiracy)"
+        },
+        {
+          "section": "420",
+          "newCodeNote": "Mapped to BNS (2023) Section 318(4) (Cheating and dishonestly inducing delivery of property)"
+        }
+      ],
+      "page": 2,
+      "evidence": "Section 120B read with Section 420 of the Indian Penal Code, 1860",
+      "verified": true
+    },
+    {
+      "act": "Prevention of Corruption Act, 1988",
+      "sections": [
+        "7",
+        "7A",
+        "12"
+      ],
+      "sectionMappings": [
+        {
+          "section": "7",
+          "newCodeNote": null
+        },
+        {
+          "section": "7A",
+          "newCodeNote": null
+        },
+        {
+          "section": "12",
+          "newCodeNote": null
+        }
+      ],
+      "page": 2,
+      "evidence": "Sections 7, 7A and 12 of the Prevention of Corruption Act, 1988",
+      "verified": true
+    }
+  ],
+  "outcome": {
+    "result": "Bail granted",
+    "detail": "The Supreme Court allowed the appeal and directed that the appellant be released on bail upon furnishing a personal bond of Rs. 10,00,000.",
+    "page": 29,
+    "evidence": "the appeal is allowed. The impugned judgment and order passed by the High Court is set aside. The appellant Manish Sisodia is directed to be released on bail",
+    "verified": true
+  },
+  "key_dates": [
+    {
+      "date": "2024-08-09",
+      "event": "Supreme Court judgment granting regular bail"
+    }
+  ],
+  "summary": "The Supreme Court granted regular bail to appellant Manish Sisodia after 17 months of pre-trial custody in the Delhi Excise Policy case. The Bench reiterated that bail is the rule and jail is the exception, ruling that indefinite detention without trial infringes personal liberty under Article 21. The appellant was ordered to be released on a personal bond of Rs. 10,00,000.",
+  "summary_hi": "सुप्रीम कोर्ट ने दिल्ली आबकारी नीति मामले में 17 महीने की हिरासत के बाद मनीष सिसोदिया को नियमित जमानत दे दी है। अदालत ने दोहराया कि जमानत नियम है और जेल अपवाद है, तथा बिना मुकदमे के लंबी हिरासत अनुच्छेद 21 के तहत स्वतंत्रता का उल्लंघन है।",
+  "meta": {
+    "latencyMs": 12,
+    "pagesSent": [
+      1,
+      2,
+      28,
+      29
+    ],
+    "totalPages": 4,
+    "model": "gemini-2.5-flash",
+    "cached": true
+  }
+}
